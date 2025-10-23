@@ -1,11 +1,15 @@
 ## 🏎️ **Cark – Smart Car Rental Platform (Graduation Project)**  
 
-**Tech Stack:** Django REST Framework · Flutter · Flask (AI & ML) · MySQL · Microsoft Azure · Google Maps API · Paymob · Cloudflare  
+**Tech Stack:** Django REST Framework, Flutter, Flask, MySQL, Microsoft Azure Web App, JWT Authentication, Machine Learning (ResNet50, OpenCLIP).
 
-An **AI-powered peer-to-peer car rental platform** that connects car owners with renters through a **secure and intelligent booking system**.  
-The platform features **automated car matching**, **AI-driven vehicle and ID verification**, **real-time GPS tracking**, and **dynamic smart pricing** to optimize availability and demand.  
-Built as a **scalable full-stack solution** using **Flutter** (frontend) and **Django REST Framework** (backend), with **Flask microservices** handling computer vision and identity validation.  
-Deployed on **Microsoft Azure**, integrated with **Cloudflare tunneling** for **secure, high-performance, and cloud-optimized access**.  
+A **peer-to-peer car rental mobile application** tailored for the Egyptian market that streamlines the vehicle renting process for both car owners and renters.  
+The platform enables **secure online payments**, **real-time GPS tracking**, **digital contract management**, and **AI-based document and vehicle image verification** to ensure safety and transparency.  
+
+Designed and implemented a **cross-platform full-stack system** using **Flutter** (frontend) and **Django REST Framework** (backend).  
+Developed **Flask-based AI microservices** for **car model detection** and **ID verification** using **ResNet50 deep learning models**.  
+Integrated **Paymob** for secure online payments and **Google Maps API** for real-time location tracking.  
+Built **real-time booking**, **smart pricing**, and **dual handover flows** with digital contract uploads.  
+Deployed the system on **Microsoft Azure**, using **Cloudflare tunnels** for **secure backend communication** and **optimized performance**.    
 
 🔗 **Repository:** [Cark – Smart Car Rental Platform](https://github.com/seifeldein1/Cark-Smart-Car-Rental-Platform)  
 
